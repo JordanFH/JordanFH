@@ -34,12 +34,58 @@
 
 <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ My Tech Stack ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,mysql" /><br>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="175">
+      <strong>Frontend</strong>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css,tailwind,materialui,bootstrap,alpinejs,vite,webpack,wordpress,pug" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Backend</strong>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,gradle,hibernate,go,php,laravel,python,fastapi,cs,dotnet,apollo,graphql" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Databases & Storage</strong>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Cloud & DevOps</strong>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,cloudflare,gcp,githubactions" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>DevTools & Platforms</strong>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,idea,androidstudio,powershell,npm,pnpm" />
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <strong>Operating Systems</strong>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 <hr/>
