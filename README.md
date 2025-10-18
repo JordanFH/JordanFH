@@ -57,7 +57,7 @@
       <strong>Databases & Storage</strong>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase" />
+      <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,redis" />
     </td>
   </tr>
   <tr>
