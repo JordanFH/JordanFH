@@ -41,7 +41,7 @@
       <strong>Frontend</strong>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,astro,javascript,typescript,html,css,tailwind,materialui,bootstrap,alpinejs,vite,webpack,wordpress,pug" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css,tailwind,materialui,bootstrap,vite,pug" />
     </td>
   </tr>
   <tr>
@@ -49,7 +49,7 @@
       <strong>Backend</strong>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,gradle,hibernate,go,php,laravel,python,fastapi,cs,dotnet,apollo,graphql" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,go,php,laravel,python,cs,graphql" />
     </td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@
       <strong>DevTools & Platforms</strong>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,idea,androidstudio,powershell,npm,pnpm" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,idea,androidstudio,powershell,npm" />
     </td>
   </tr>
   <tr>
