@@ -41,7 +41,7 @@
       <strong>Frontend</strong>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css,tailwind,materialui,bootstrap,vite,pug" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,astro,javascript,typescript,html,css,tailwind,materialui,bootstrap,vite,pug" />
     </td>
   </tr>
   <tr>
